@@ -1,5 +1,5 @@
 # stm32
-In this repository we are all the projects and libraries for the stm32 microcontrollers created by @eletronita.
+In this repository there are all the projects and libraries for the stm32 microcontrollers created by @eletronita.
 
 We have organized the folders by the stm32 series. So we have folders for each of the following series.
 
